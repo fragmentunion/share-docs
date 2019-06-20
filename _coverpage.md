@@ -1,4 +1,4 @@
-![logo](_media/icon.svg)
+![logo](/img/log0_henng.png)
 
 # FU 分享库
 
